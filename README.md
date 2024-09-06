@@ -2,8 +2,8 @@
 
 ## What's Rails?
 
-Rails is a web-application framework that includes everything needed to
-create database-backed web applications according to the
+Rails is an awesome web-application framework that includes everything needed to
+create database-backed web applications according to the MVC
 [Model-View-Controller (MVC)](https://en.wikipedia.org/wiki/Model-view-controller)
 pattern.
 
